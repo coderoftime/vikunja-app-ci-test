@@ -3,7 +3,7 @@
   "@appTitle": {
     "description": "Name of the app, shown in the task switcher and on the connect screen. A brand name: do not translate."
   },
-  "connectTagline": "Your tasks from your own Vikunja server, right on your phone.",
+  "connectTagline": "Your tasks from your own Vikunja server, right on your device.",
   "connectAddressLabel": "Server address",
   "connectAddressHint": "vikunja.example.com",
   "connectAddressHelper": "The address you open Vikunja with in your browser, for example https://vikunja.example.com",

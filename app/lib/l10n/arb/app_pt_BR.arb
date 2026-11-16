@@ -1,0 +1,7 @@
+{
+  "appTitle": "Vikunja",
+  "@appTitle": {
+    "description": "Name of the app, shown in the task switcher and on the connect screen. A brand name: do not translate."
+  },
+  "connectAddressLabel": "Endereço do servidor"
+}

@@ -3,6 +3,5 @@
   "@appTitle": {
     "description": "Name of the app, shown in the task switcher and on the connect screen. A brand name: do not translate."
   },
-  "connectTagline": "Suas tarefas do seu próprio servidor Vikunja, diretamente no seu telefone.",
   "connectAddressLabel": "Endereço do servidor"
 }
